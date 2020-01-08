@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316121343734",
+    "firebase_url": "https://librarymangement-69423.firebaseio.com",
+    "project_id": "librarymangement-69423",
+    "storage_bucket": "librarymangement-69423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316121343734:android:2c9bfa4ce7e60b3f",
+        "android_client_info": {
+          "package_name": "in.edu.charusat.cspit.it.librarymangement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316121343734-udpl4aq41fp8rc3e1vm23k60ok53l5m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2zJZtBjI6iXHGI73aC83Vp4wC_iqw4VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316121343734-udpl4aq41fp8rc3e1vm23k60ok53l5m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
